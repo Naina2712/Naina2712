@@ -16,6 +16,7 @@
 ## 🚀 Tech Stack  
 **Languages:**  
 - Java ☕ | C (basic)
+- 
 **Development:**  
 - HTML | CSS | JavaScript  
 - Git & GitHub  
