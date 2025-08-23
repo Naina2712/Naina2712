@@ -15,8 +15,7 @@
 
 ## 🚀 Tech Stack  
 **Languages:**  
-- Java ☕ | C (basic) 
-
+- Java ☕ | C (basic)
 **Development:**  
 - HTML | CSS | JavaScript  
 - Git & GitHub  
@@ -34,17 +33,16 @@
 ---
 
 ## 📊 GitHub Stats  
-![Naina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Naina's GitHub stats](https://github-readme-stats.vercel.app/api?username= Naina2712_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naina2712&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: nainashrigupta@gmail.com
 
 ---
 
 ⭐️ *“Consistency and practice turn beginners into professionals!”*  
-
