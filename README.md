@@ -8,14 +8,14 @@
 ## 🔥 About Me  
 - 🎓 2nd Year Electronics & Communication Engineering Student  
 - 💻 Passionate about **Programming, Problem-Solving & Web Development**  
-- 🚀 Interested in **Software Development & Cloud Technologies**  
+- 🚀 Interested in **Software Development**  
 - 🌟 Always learning & building projects to grow my skills  
 
 ---
 
 ## 🚀 Tech Stack  
 **Languages:**  
-- Java ☕ | C(basic) 
+- Java ☕ | C (basic) 
 
 **Development:**  
 - HTML | CSS | JavaScript  
