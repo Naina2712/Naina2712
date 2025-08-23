@@ -1,25 +1,50 @@
-# Hi, I'm Naina 👋
-🚀 ECE'27 | Java | DSA | Web Development Enthusiast  
+# 👋 Hi, I'm Naina Shri Gupta  
 
-- 🌱 Currently learning **Java & Data Structures**
-- 💻 Exploring **Full-Stack Web Development**
-- 🎯 Goal: SDE Intern by 2026
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your.email@gmail.com)
+🎓 **ECE Student (Class of 2027)** | 💻 **Aspiring Software Engineer**  
+🌱 Currently learning **Java + DSA** and exploring **Web Development**  
 
 ---
 
-### 🔧 Skills & Tools
-- Languages: Java, C (Basics), JavaScript (learning)
-- Web: HTML, CSS, React (soon)
-- Tools: Git, GitHub, VS Code
+## 🔥 About Me  
+- 🎓 2nd Year Electronics & Communication Engineering Student  
+- 💻 Passionate about **Programming, Problem-Solving & Web Development**  
+- 🚀 Interested in **Software Development & Cloud Technologies**  
+- 🌟 Always learning & building projects to grow my skills  
 
 ---
 
-### 📌 Pinned Projects
-- [DSA-Java](https://github.com/yourusername/DSA-Java) → My solved problems repo
-- [Portfolio-Website](https://github.com/yourusername/Portfolio-Website) → Personal portfolio site
-- [Weather-App](https://github.com/yourusername/Weather-App) → Mini web app project
+## 🚀 Tech Stack  
+**Languages:**  
+- Java ☕ | C(basic) 
 
+**Development:**  
+- HTML | CSS | JavaScript  
+- Git & GitHub  
 
+**Core Subjects (ECE):**  
+- Digital Electronics | Microprocessors | Signals & Systems  
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## 📌 Current Focus  
+- 📚 Mastering **Java + Data Structures & Algorithms**  
+- 🌐 Building projects in **Web Development**  
+- 🏆 Preparing for future **Internships & Placements**  
+
+---
+
+## 📊 GitHub Stats  
+![Naina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- 📧 Email: your.email@example.com  
+
+---
+
+⭐️ *“Consistency and practice turn beginners into professionals!”*  
+
